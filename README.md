@@ -1,1 +1,1 @@
-# lcmofnumbers
+# lcm of numbers
